@@ -1,7 +1,8 @@
 ### Hi there 👋
+--><img width="815" alt="Captura de pantalla 2024-06-10 a las 11 12 51" src="https://github.com/silviavanessasv/Bienvenidos/assets/148786936/12067b6d-a990-4a58-9020-b52b2f0813ef">
 
 <!--
-**SilviaBargaz/SilviaBargaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Silviavanessa /Fullstack ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
